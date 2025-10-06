@@ -18,5 +18,8 @@ Este projeto tem como objetivo praticar conceitos básicos de Python. Foi uma fo
   <code>git clone https://github.com/ryansilva-2003/ToDoList-in-python.git</code>
   <li>Abra o projeto em uma IDE Java</li>
   <li>Compile e execute o arquivo <code>Main.java</code></li>
+  <li>Interaja com o sistema pelo terminal conforme as opções disponíveis.</li>
 </ol>
+<hr>
+Eu escolhi fazer o primero projeto em python criando uma lista de tarefas.
 
