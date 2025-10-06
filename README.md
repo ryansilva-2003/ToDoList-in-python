@@ -21,5 +21,5 @@ Este projeto tem como objetivo praticar conceitos básicos de Python. Foi uma fo
   <li>Interaja com o sistema pelo terminal conforme as opções disponíveis.</li>
 </ol>
 <hr>
-Eu escolhi fazer o primero projeto em python criando uma lista de tarefas.
+Eu escolhi fazer o primero projeto em python criando uma lista de tarefas. Projeto desenvolvido por Ryan.
 
